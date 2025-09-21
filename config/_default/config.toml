@@ -1,0 +1,3 @@
+theme = "blowfish"
+[[module.imports]]
+  path = "github.com/nunocoracao/blowfish"
