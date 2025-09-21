@@ -17,7 +17,7 @@ title = "Teacher Wang's Blog"
 [params.author]
   name = "Teacher Wang"
   email = "19wangxin@gmail.com"
-  image = "img/personpic.jpg"
+  image = "assets/personpic.jpg"
 #   imageQuality = 96
   headline = "A normal IT teacher"
 #   bio = "A little bit about you"
