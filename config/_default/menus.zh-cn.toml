@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Home"
-  pageRef = "posts"
+  name = "主页"
+  pageRef = "index"
   weight = 10
 
 [[main]]
-  name = "Post"
+  name = "文章"
   pageRef = "posts"
   weight = 20
 

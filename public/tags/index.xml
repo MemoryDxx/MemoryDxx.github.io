@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Teacher Wang&#39;s Blog</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Teacher Wang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2025 </copyright>
+    <language>zh-cn</language>
+    <managingEditor>19wangxin@gmail.com (Teacher Wang)</managingEditor>
+    <webMaster>19wangxin@gmail.com (Teacher Wang)</webMaster>
+    <copyright>© 2025 Teacher Wang</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
