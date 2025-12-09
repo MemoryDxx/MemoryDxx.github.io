@@ -26,7 +26,9 @@ title = '利用GithubPages搭配Hugo的blowfish主题搭建个人博客'
 ## 1. github准备
 ### 1.1 github账号注册
 #### 1.1.1 登录网站
-https://www.github.com
+https://www.github.com <br/>
+
+![网站主页](https://github.com/MemoryDxx/BLOGPIC/blob/main/111.png)
 
 #### 1.1.2 注册账号
 选择sign up按钮，填写账号信息，用户名后面在创建仓库的时候会用到，建议想个好一点的（当然了，有多余的预算也可以买域名替换，但是我没有，所以建议大家去看别的文章）。
